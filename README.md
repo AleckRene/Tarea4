@@ -89,7 +89,7 @@ public class FoodDetails {
 }
 ```
 
-## Sorting list elements in Room Database and observing using Mediator Live Data
+## Sorting list elements in Room Database and observing using Mediator Live Data (bien)
 
 Sorting of food items is done based on Pricing and rating. I have used Mediator Live data to observe same types of Live Data from different db queries. We are going to expose Mediator Live Data to UI which will observe data changes from other two Live Data.
 
